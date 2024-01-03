@@ -4907,7 +4907,7 @@ img { border-radius: 5%; }
 
 .container-fluid, .container-sm, .container-md, .container-lg, .container-xl { max-width: 1200px; }
 
-.container-footer { margin-right: auto; margin-left: auto; max-width: 800px; padding-left: 20px; padding-right: 20px; }
+.container-footer { position: absolute; margin-right: auto; margin-left: auto; max-width: 800px; padding-left: 20px; padding-right: 20px; }
 
 .well-collapse { padding-left: 20px; padding-right: 20px; padding-top: 12px; padding-bottom: 4px; border-radius: 7px; min-height: 1px; margin-top: 15px; color: black; background-color: var(--gray); border: 2px solid var(--gray-dark); }
 
